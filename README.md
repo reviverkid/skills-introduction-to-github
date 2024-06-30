@@ -1,75 +1,64 @@
-<header>
+# Abhilash KV
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+### About Me
 
-# Introduction to GitHub
+- 🔭 I’m a passionate and dedicated computer engineering student with a strong interest in technology and problem-solving. Currently pursuing my Bachelor's degree in Computer Engineering at the College of Engineering Cherthala.
+- 🌱 I graduated with a Diploma in Computer Engineering from Govt Polytechnic College, Cherthala. I am constantly seeking opportunities to apply my skills and knowledge to contribute to the growth of a dynamic organization.
+- 📧 Email: abhilashkv521@gmail.com
+- 📱 Phone: 8281508821
+- 🌍 LinkedIn: [Abhilash KV](https://www.linkedin.com/in/abhilashkv521/)
+- 🔗 GitHub: [Abhilash KV](https://github.com/reviverkid)
 
-_Get started using GitHub in less than an hour._
+## Portfolio Highlights
 
-</header>
+### My Projects
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+| Name                      | Description                                                                                              | Hosted Link                                | Repo Link                                                     |
+|---------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------|---------------------------------------------------------------|
+| **Deepfake Detection**    | Developed a deepfake video detection model using pre-trained CNNs for feature extraction and LSTM networks for temporal modeling, achieving high accuracy in distinguishing real and fake videos. | N/A                                        | N/A                                                           |
+| **Smart Patient Monitoring IoT App** | Developed a patient monitoring system using IoT, utilizing Android Studio IDE, Arduino IDE, and Firebase.    | N/A                                        | N/A                                                           |
+| **Warehouse Management System** | Developed an application for warehouse management using Netbeans.                                | N/A                                        | N/A                                                           |
+| **Contact Tracer Android Application** | Developed an Android app for tracking and managing patient interactions, facilitating efficient healthcare management and communication.       | N/A                                        | N/A                                                           |
+| **WhatsApp Status Saver** | Developed an Android application to save WhatsApp statuses.                                             | N/A                                        | N/A                                                           |
+| **Personal Website**      | Created a personal website to showcase projects and skills.                                             | [Website](https://abhilashkv.web.app/)     | N/A                                                           |
+| **Plant Disease Detection App** | Developed an Android app for detecting plant diseases using machine learning models. The app allows users to take or upload photos of plants and receive diagnoses and treatment suggestions. | N/A                                        | N/A                                                           |
 
-## Step 1: Create a branch
+### Education
 
-_Welcome to "Introduction to GitHub"! :wave:_
+- **B.TECH COMPUTER SCIENCE** - APJ Abdul Kalam Technological University
+- **DIPLOMA IN COMPUTER ENGINEERING** - State Board of Technical Education, 84%, 2018-2021
+- **PLUS TWO-SCIENCE** - Directorate of Higher Secondary Education, 79%, 2016-2018
+- **SSLC** - Kerala Board of Public Examinations, 89%, 2016
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+### Leadership and Influence
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+- Participated in various workshops and internships, including digital marketing, Android development, and cybersecurity.
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+### Networking
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+- Enjoys connecting with people of diverse perspectives and finding encouragement from new ideas and passions.
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+### Career Plan
 
-![profile-readme-example](/images/profile-readme-example.png)
+- Committed to honing skills and increasing self-assurance through opportunities like Launchpad with GTech Mulearn.
 
-### :keyboard: Activity: Your first branch
+### Thoughts on Kerala's Tech Ecosystem
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
+- Praises Kerala's digital ecosystem for fostering startup culture and encouraging young entrepreneurs.
 
-   ![code-tab](/images/code-tab.png)
+### Technical Skills
 
-3. Click on the **main** branch drop-down.
+- **Languages:** C, C++, Java, Python, PHP, JavaScript, SQL
+- **Platforms:** Linux, Windows, Visual Studio Code, Netbeans, Arduino IDE, Android Studio IDE, Firebase
+- **Web Technologies:** HTML5, React, Flask, APIs and RESTful Services, XML
+- **Software Tools:** Adobe Illustrator, Photoshop, Microsoft Office, Liber Office
 
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
+### Soft Skills
 
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
+- Leadership, Problem Solving, Active Listening, Creativity, Communication, Team Work
 
-   ![create-branch-button](/images/create-branch-button.png)
+### Hobbies
 
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
+- Reading, Cycling, Sports, Photography, Traveling, Learning New Languages
 
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
